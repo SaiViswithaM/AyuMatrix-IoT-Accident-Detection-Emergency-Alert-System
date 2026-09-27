@@ -1,4 +1,4 @@
-\# AyuMatrix – IoT Accident Detection \& Emergency Alert System
+\ AyuMatrix – IoT Accident Detection \& Emergency Alert System
 
 
 
@@ -10,7 +10,7 @@ The project combines accident sensing, ESP32-based processing, GPS location trac
 
 
 
-\## 🚀 Project Components
+\🚀 Project Components
 
 
 
@@ -30,7 +30,7 @@ The project combines accident sensing, ESP32-based processing, GPS location trac
 
 
 
-\## 📱 Flutter Application
+\ 📱 Flutter Application
 
 
 
@@ -38,43 +38,43 @@ The Flutter mobile application is currently under active development as part of 
 
 
 
-\## 📂 Project Resources
+\ 📂 Project Resources
 
 
 
-\### 📊 AyuMatrix Presentation
+\📊 AyuMatrix Presentation
 
 
 
-\[View AyuMatrix PPT](https://docs.google.com/presentation/d/1TmU0UnTMWs\_NeBv4-NGOLdvGXyLYd-L9/edit?usp=sharing)
+\[AyuMatrix PPT(https://docs.google.com/presentation/d/1TmU0UnTMWs\_NeBv4-NGOLdvGXyLYd-L9/edit?usp=sharing)
 
 
 
-\### 🎥 PPT Explanation
+\🎥 PPT Explanation
 
 
 
-\[Watch PPT Explanation](https://drive.google.com/file/d/1IV-0h-8r9DuJ5z9OQKQpQhG1MpSiaR\_g/view?usp=drive\_link)
+\[PPT Explanation](https://drive.google.com/file/d/1IV-0h-8r9DuJ5z9OQKQpQhG1MpSiaR\_g/view?usp=drive\_link)
 
 
 
-\### 🎥 Demo Video
+\🎥 Demo Video
 
 
 
-\[Watch AyuMatrix Demo Video](https://drive.google.com/file/d/14UyFGBLI7vGJmt2ZKwXJkyZSZTb8iVGP/view?usp=drive\_link)
+\[ AyuMatrix Demo Video](https://drive.google.com/file/d/14UyFGBLI7vGJmt2ZKwXJkyZSZTb8iVGP/view?usp=drive\_link)
 
 
 
-\### 🌐 Web App Demo
+\🌐 Web App Demo
 
 
 
-\[Watch Web App Demo](https://drive.google.com/file/d/13ocW9I\_pdgD5kHbEWkmI0sGS0qulWkf1/view?usp=drive\_link)
+\[ Web App Demo](https://drive.google.com/file/d/13ocW9I\_pdgD5kHbEWkmI0sGS0qulWkf1/view?usp=drive\_link)
 
 
 
-\## 🛠️ Technology Stack
+\ 🛠️ Technology Stack
 
 
 
@@ -98,7 +98,7 @@ The Flutter mobile application is currently under active development as part of 
 
 
 
-\## 📌 Current Status
+\📌 Current Status
 
 
 
@@ -106,7 +106,7 @@ The project is under active development, with the Flutter mobile application bei
 
 
 
-\## 👥 Project
+\👥 Project
 
 
 
