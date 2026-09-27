@@ -48,7 +48,6 @@ The application is being developed to provide a mobile interface for interacting
 
 [Watch Web App Demo](https://drive.google.com/file/d/13ocW9I_pdgD5kHbEWkmI0sGS0qulWkf1/view?usp=drive_link)
 
-> **Note:** Make sure the Google Drive files are shared with appropriate access permissions so that people with the links can view them.
 
 ---
 
